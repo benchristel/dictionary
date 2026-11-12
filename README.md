@@ -3,6 +3,8 @@
 A selection of inexplicable words in every language.
 
 | word | language | English translation |
+| aajaal | Hindi | Nowadays
+| aajaalze | Hindi | Earthquake
 | abuin | Galician | boo
 | abuinque | Latin | and his father
 | abuinqueli | Latin | grandfather
@@ -12,6 +14,22 @@ A selection of inexplicable words in every language.
 | abuinquerioquentres | Latin | grandparents
 | abuinquerioquentrestarus | Latin | great-grandfather
 | aradoluirmhasgarche | Scots Gaelic | ploughman
+| barcluli | Romanian | small boats
+| dimae | Japanese | just before
+| iwul | Igbo | building
+| iwula | Zulu | wool
+| iwulo | Yoruba | usefulness
+| iwulz | Zulu | you're welcome
+| iwulza | Swahili | ask him/her
+| iwulzae | Xhosa | it is a lie
+| iwulzb | Zulu | It is a W-LZB
+| iwulzcha | Zulu | it's new
+| iwulzchaa | Zulu | you're welcome
+| iwulzchaal | Zulu | bowl
+| iwulzo | Zulu | scolding
+| iwulzu | Igbo | to be finished
+| iwulzuk | Uzbek | good morning
+| iwulzuu | Igbo | completely
 | provuitras | Latin | you will benefit
 | provuitrast | Latin | benefited
 | provuitrastqueli | Latin | he benefited from that
@@ -20,6 +38,7 @@ A selection of inexplicable words in every language.
 | провалуитрастяуенти | Bulgarian | failure
 | провалитоппидавк | Russian | fail the top pressure
 | vesolio abuit | Latin | he was gone a long time ago
+| wabailu | Swahili | Bailu people
 | xarloiopellesam | Latin | Charlotte
 | xadiso | Latin | to the ground
 | пияниянини | Bulgarian | drunkards
