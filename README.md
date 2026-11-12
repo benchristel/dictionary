@@ -3,6 +3,7 @@
 A selection of inexplicable words in every language.
 
 | word | language | English translation |
+| ---- | -------- | ------------------- |
 | aajaal | Hindi | Nowadays
 | aajaalze | Hindi | Earthquake
 | abuin | Galician | boo
@@ -16,6 +17,12 @@ A selection of inexplicable words in every language.
 | aradoluirmhasgarche | Scots Gaelic | ploughman
 | barcluli | Romanian | small boats
 | dimae | Japanese | just before
+| hoitlim | Estonian | preservationist
+| idimmad | Somali | authorization
+| idimt | Maltese | I worked
+| idimtmna | Maltese | We are dying
+| itli | Turkish | dog
+| itlim | Turkish | climate
 | iwul | Igbo | building
 | iwula | Zulu | wool
 | iwulo | Yoruba | usefulness
@@ -30,6 +37,7 @@ A selection of inexplicable words in every language.
 | iwulzu | Igbo | to be finished
 | iwulzuk | Uzbek | good morning
 | iwulzuu | Igbo | completely
+| iyani | Yoruba | surprise
 | provuitras | Latin | you will benefit
 | provuitrast | Latin | benefited
 | provuitrastqueli | Latin | he benefited from that
